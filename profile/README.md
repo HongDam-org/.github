@@ -1,4 +1,4 @@
-# 이길저길 🛣️
+![Group 36334](https://github.com/HongDam-org/TWTW/assets/89020004/4ce8b3d0-711f-4b95-ae4d-c494b0c173a4)
 
 ## 길치들을 위한 경로 제공 및 만남 관리 서비스 앱
 
@@ -58,17 +58,17 @@
 - 데이터 바인딩: 데이터 처리 로직을 ViewModel에서 처리하여 ViewController를 간결하게 만든다.
 - Coordinator를 통한 흐름제어: 앱의 화면전환 및 네비게이션 흐름을 관리해서 네비게이션 로직 중앙화한다.
 
-1. **KakaoMap SDK V2 사용**
+2. **KakaoMap SDK V2 사용**
 - 지도 및 경로 표시: 사용자에게 지도 표시, 경로 정보 제공한다.
 - 사용자 경험 향상: 효율적인 경로 탐색 및 명확한 시각적 지도 인터페이스 제공한다.
 - Localization: 한국지역 사용자에게 맞춤화된 지도서비스 제공한다.
 
-1. **실시간 위치 공유를 위한 RxSwift, CoreLocation, WebSocket** 
+3. **실시간 위치 공유를 위한 RxSwift, CoreLocation, WebSocket** 
 - 반응형 프로그래밍: RxSwift를 사용해서 비동기적이고, 이벤트 기반의 데이터 흐름을 관리한다. 사용자 위치 변경과 같은 실시간 이벤트 효율적인 처리한다.
 - 사용자 위치추적: CoreLocation을 통해 사용자의 실시간 위치 데이터를 추적한다.
 - WebSocket을 통한 실시간 통신: WebSocket을 사용해서 서버와의 실시간 양방향 통신 구현으로 위치 데이터를 실시간으로 공유한다.
 
-1. **애플 및 카카오 로그인을 위한 AuthenticationServices, RxKakaoOAuth 사용**
+4. **애플 및 카카오 로그인을 위한 AuthenticationServices, RxKakaoOAuth 사용**
 - Social 로그인 통합: AuthenticationServices을 사용한 Apple ID를 통한 로그인 및 RxKakaoOAuth를 사용한 Kakao 로그인 구현을 통해 사용자는 쉽게 로그인할 수 있다.
 - 비동기 프로그래밍과 반응형 인터페이스: RxKakaoOAuth를 통해 로그인 프로세스의 비동기적인 특성 관리 및 사용자 인터페이스의 반응성을 향상시킨다.
 
