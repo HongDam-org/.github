@@ -34,7 +34,10 @@
 
 
 ## 시스템 아키텍처
-![image](https://github.com/HongDam-org/.github/assets/89020004/55580f59-b56c-49c6-93c1-8371484eb5de)
+![image](https://github.com/HongDam-org/TWTW/assets/89020004/27a64b72-85a5-44b8-ab49-eb97751271bc)
+
+## Cloud 아키텍처
+![Lucidchart (1)](https://github.com/HongDam-org/TWTW/assets/89020004/04b1ca63-17ba-488a-a18b-40fd476626b4)
 
 ## 사용 기술
 |iOS|Backend|Infra/DevOps|Etc|
