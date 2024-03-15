@@ -34,7 +34,7 @@
 
 
 ## 시스템 아키텍처
-![image](https://github.com/HongDam-org/TWTW/assets/89020004/ede928ad-457d-4ba9-a702-be8338c48888)
+![image](https://github.com/HongDam-org/.github/assets/89020004/ec9e4bc4-e85b-4049-92d9-9f28d55d0533)
 
 ## 사용 기술
 |iOS|Backend|Infra/DevOps|Etc|
